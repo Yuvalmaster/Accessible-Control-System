@@ -32,9 +32,8 @@ This GitHub repository contains all the necessary code, circuit diagrams, and pa
 ![IMG_20220607_103904](https://github.com/Yuvalmaster/Accessible-Control-System/assets/121662835/4d9c2278-bdfd-49bf-8ee9-5701f5f8f262)
 
 * Demo:
-<video src="LINK" controls="controls" style="max-width: 730px;">
-https://github.com/Yuvalmaster/Accessible-Control-System/assets/121662835/2c67cd78-9575-40a3-845c-c0b5f872c30c
-</video>
+[![Watch the video](https://github.com/Yuvalmaster/Accessible-Control-System/assets/121662835/bdb85c44-010a-4161-a659-c374c67a3198)
+
 
 
 
